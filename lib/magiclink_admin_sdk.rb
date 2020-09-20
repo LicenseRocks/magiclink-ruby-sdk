@@ -1,0 +1,5 @@
+require 'magiclink/version'
+require 'magiclink/client'
+require 'magiclink/user'
+require 'magiclink/token'
+require 'magiclink/api'
